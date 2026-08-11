@@ -1,0 +1,6 @@
+{
+  "name": "اسكربت التفاحه مضمون100%",
+  "description": "اسكربت التفاحه مضمون 100% - توقعات تفاحة الحظ وسيرفرات آمنة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
